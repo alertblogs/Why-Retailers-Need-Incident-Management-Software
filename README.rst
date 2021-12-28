@@ -1,40 +1,39 @@
-AlertOps Expert Guidance
+Why Retailers Need Incident Management Software
 ========
 
- 
-The phrase ‘stakeholder management” assumes that stakeholders are truly informed by alerts. However, managers can only send communications out, they cannot force people to address them. To ensure your stakeholders are engaged during an incident, it is vital to set up a defined communication process. Yet, a recent Red Canary report1 found that 43% of surveyed participants lack readiness to notify the public and/or its customers in the event of a security breach. Without a clear strategy in place, communication can get lost in the chaos leaving stakeholders uninformed.
+As a retailer, you likely invest a lot of time and resources to explore ways to drive revenue growth and foster long-lasting customer partnerships. But what happens when your company suffers a major incident like a data breach? The end result may be a downward spiral that affects your business, its employees and, perhaps most important, its customers.
 
-Not One Size Fits All
-=====
-Sending the same notification to all your stakeholders can cause a lot of confusion and create unwanted alert noise. Some users shouldn’t receive technical information, others require all the nitty gritty details. Every alert should be tailored based on a user’s expertise or role.
-Means of Communication
+A data breach may cause downtime and outages and raise questions and concerns about your business. Meanwhile, the media’s coverage of your company’s data breach may lead consumers to shy away from your business’ brick-and-mortar locations.
 
-Strategize mode(s) of communication to be used when communicating with stakeholders. Understand which tools engage stakeholders the most. It is also vital to unify these channels for streamlined points of contact.
+Let’s not forget about the bottom-line impact of a data breach, either. A data breach may cost your business millions of dollars in lost sales. It also may cause your business to miss its sales goals and exceed its budget as it invests in solutions to regain customers’ trust.
 
-Automate Processes
-====
-Engaging stakeholders can take up a lot of time. Automate stakeholder communications to ensure efficient delivery of insightful information. Implement AlertOps so you can focus on getting ahead of incidents while knowing your alerts reach the right person, through the right channel, every time. Sending regular updates to stakeholders during an incident is vital to keep them calm. Automation addresses your stakeholders’ needs while ensuring they remain aligned with minimal manual work.
+Ultimately, the long-term effects of a data breach will show up in your company’s profit and loss statements, too. The incident may even result in store closures. Yet with incident management software in place, your company can quickly address data breaches and other major incidents.
 
-Clarity
-====
-A highly flexible incident management and alert automation tool, AlertOps is powered by an open API, with the ability to connect with practically any communication tool. Once plugged in, AlertOps delivers alerts with relevant incident information so that stakeholders can stay in the loop from detection to resolution.
-Any Way You Want It…
+Incident Management Software for Retailers: Here’s What You Need to Know
 
-Since you use multiple channels for communication, you need an alerting system that sends alerts through multiple communication channels. AlertOps delivers alerts any way you want. Receive alerts by phone, SMS, or email. Even integrate with all your favorite chat tools, such as Slack and Microsoft Teams, so that users receive alerts where they are most likely to see them.
+To better understand the benefits of incident management software for retailers, let’s consider some of the software’s key features:
 
-Insightful Notifications
-====
-Alerts are only useful if they contain information relevant to the user. With AlertOps, customized messages make it easy for stakeholders to quickly understand an incident. They can also receive updates throughout the course of handling the incident. Make sure emails are actionable as well. Send emails in rich text and HTML to include graphs, images, custom links, runbook links or links to a conference bridge for any alert. The solution even offers voice messages with incident details from the embedded phone system.
+    Manual Paging: Send out manual pages from a service desk app and assign groups and bridge numbers.
+    Status Updates: Provide in-depth status reports to a service desk in real-time and reach out to multiple teams and end users in just a few clicks.
+    Templates: Use pre-built or customizable templates to page out for major incidents.
+    Smart Routing: Deliver alerts via SMS, push notifications, emails and other communication methods to ensure the right people are alerted about a major incident.
+    Reporting and Analytics: Collect and evaluate incident details, including incident assignments, acknowledgements and escalations.
 
-Conclusion
-====
-Effective incident response requires, not only sending the right information to the right people, but also ensuring those stakeholders are engaged and truly informed. It is vital to have a plan in place for ensuring that each type of stakeholder receives only the information he or she needs. AlertOps ensures that your alerts reach the right person, through the right channel, every time.
+Brian McIlravey, Executive Vice President of PPM, also highlighted five key benefits of incident management software for retailers in a recent Security Today article. He pointed out the key benefits of incident management software for retailers were:
 
-1 Red Canary 2021 Threat Detection Report
+    End-to-end solution
+    Ease of use
+    Investigative tools
+    Actionable information
+    Improved operations
+
+These reasons explain why retailers need to deploy incident management software. Thanks to incident management software, an incident management team can follow-up on incident investigations and escalations. Plus, an incident management team can use the software to obtain valuable feedback and find ways to stop incidents.
+
+Unfortunately, incident management software won’t stop cybercriminals from targeting your business and its critical systems. The software will, however, help your business speed up incident response and resolution following a data breach or any other major incident. It can even help you take a data-driven approach to find the best ways to prevent incidents both now and in the future.
 
 source:
 ====
-https://alertops.com/red-canary-says-43-lack-readiness-to-notify-customers-of-a-security-breach/
+https://alertops.com/benefits-incident-management-software-retailers/
 
 Read more:
 ====
